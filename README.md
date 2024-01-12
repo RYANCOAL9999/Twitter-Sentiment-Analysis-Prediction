@@ -1,2 +1,1 @@
-# Twitter-Sentiment-Analysis-Prediction
-Twitter Sentiment Analysis Prediction
+# Twitter Sentiment Analysis with Prediction
